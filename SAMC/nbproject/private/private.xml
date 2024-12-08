@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+<<<<<<< HEAD
+            <file>file:/C:/Users/Gamer/ESPE2411-OOPSW1973-JUNIORS-PROGRAMMERS/06-Code/SAMC/src/espe/edu/ec/view/SAMCApp.java</file>
+=======
+            <file>file:/C:/Users/mateo/OneDrive/Escritorio/proyect_OPP/ESPE2411-OOPSW1973-JUNIORS-PROGRAMMERS/06-Code/SAMC/src/espe/edu/ec/model/Bill.java</file>
+            <file>file:/C:/Users/mateo/OneDrive/Escritorio/proyect_OPP/ESPE2411-OOPSW1973-JUNIORS-PROGRAMMERS/06-Code/SAMC/src/espe/edu/ec/view/SAMCApp.java</file>
+            <file>file:/C:/Users/mateo/OneDrive/Escritorio/proyect_OPP/ESPE2411-OOPSW1973-JUNIORS-PROGRAMMERS/06-Code/SAMC/src/espe/edu/ec/model/MenuItem.java</file>
+            <file>file:/C:/Users/mateo/OneDrive/Escritorio/proyect_OPP/ESPE2411-OOPSW1973-JUNIORS-PROGRAMMERS/06-Code/SAMC/src/espe/edu/ec/model/Customer.java</file>
+            <file>file:/C:/Users/mateo/OneDrive/Escritorio/proyect_OPP/ESPE2411-OOPSW1973-JUNIORS-PROGRAMMERS/06-Code/SAMC/src/espe/edu/ec/model/SaleNote.java</file>
+            <file>file:/C:/Users/mateo/OneDrive/Escritorio/proyect_OPP/ESPE2411-OOPSW1973-JUNIORS-PROGRAMMERS/06-Code/SAMC/src/espe/edu/ec/controller/ManageFileCsv.java</file>
+            <file>file:/C:/Users/mateo/OneDrive/Escritorio/proyect_OPP/ESPE2411-OOPSW1973-JUNIORS-PROGRAMMERS/06-Code/SAMC/src/espe/edu/ec/model/DishInventory.java</file>
+            <file>file:/C:/Users/mateo/OneDrive/Escritorio/proyect_OPP/ESPE2411-OOPSW1973-JUNIORS-PROGRAMMERS/06-Code/SAMC/src/espe/edu/ec/controller/ManageFileJson.java</file>
+>>>>>>> b41f332d2b24b230c339f634df9d24a6dfd16234
+        </group>
+    </open-files>
+</project-private>
