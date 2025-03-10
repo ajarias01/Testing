@@ -6,11 +6,14 @@ class SortingController:
         self.sorting_context = SortingContext()
         self.db_handler = DatabaseHandler()
 
-    def sort_and_store(self, data):
+    def sort_numbers(self, data):
         self.sorting_context.set_strategy(data)
         sorted_data = self.sorting_context.sort(data)
         algorithm = self.sorting_context.strategy.__class__.__name__
         print(f"Using {algorithm}")
         print("Ordered numbers:", sorted_data)
-        self.db_handler.save_sorting_record(data, sorted_data, algorithm)
+        return sorted_data, algorithm
+
+    def save_to_db(self, unsorted, size, algorithm, sorted_data):
+        self.db_handler.save_sorting_record(unsorted, sorted_data, algorithm)
         print("Record saved in MongoDB.")
