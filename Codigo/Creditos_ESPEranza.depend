@@ -1,0 +1,246 @@
+# depslib dependency file v1.0
+1702847051 source:d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\calculoscredito.cpp
+	"CalculosCredito.h"
+	"ListaDoble.cpp"
+	"Nodo.cpp"
+	<cmath>
+
+1702847051 d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\calculoscredito.h
+	"ListaDoble.h"
+
+1702051781 d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\listadoble.h
+	"Nodo.h"
+
+1702051781 d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\nodo.h
+
+1702051781 d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\listadoble.cpp
+	"ListaDoble.h"
+
+1702051781 d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\nodo.cpp
+	"Nodo.h"
+
+1702051781 source:d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\listadoble.cpp
+	"ListaDoble.h"
+
+1702051781 source:d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\nodo.cpp
+	"Nodo.h"
+
+1702864358 source:d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\main.cpp
+	<iostream>
+	<ctime>
+	"menus.h"
+
+1702864358 d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\menus.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"validaciones.h"
+	"Fecha.h"
+	"Credito.h"
+	"TablaAmortizacion.h"
+
+1702864358 d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\validaciones.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+
+1702864578 d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\fecha.h
+	<iostream>
+	"Nodo.h"
+	<ctime>
+	<iomanip>
+
+1702864358 d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\credito.h
+	"Fecha.h"
+
+1702847051 d:\uninversidad\tercersemestre\estructura\cooperativaesperanza\codigo\tablaamortizacion.h
+	"ListaDoble.h"
+	"Credito.h"
+	"Fecha.h"
+
+1706676572 source:c:\gitrepos\arbolrojonegro\arbol rojonegro\treenode.cpp
+	"TreeNode.h"
+
+1706676620 c:\gitrepos\arbolrojonegro\arbol rojonegro\treenode.h
+
+1706673720 source:c:\gitrepos\arbolrojonegro\arbol rojonegro\main.cpp
+	<iostream>
+	<string>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+	<codecvt>
+	"RedBlackTree.h"
+
+1706673720 c:\gitrepos\arbolrojonegro\arbol rojonegro\redblacktree.h
+	<functional>
+	<unordered_map>
+	<iostream>
+	"TreeNode.h"
+	"TreeNode.cpp"
+
+1706676572 c:\gitrepos\arbolrojonegro\arbol rojonegro\treenode.cpp
+	"TreeNode.h"
+
+1708220466 source:c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\calculoscredito.cpp
+	"CalculosCredito.h"
+	"ListaDoble.cpp"
+	"Nodo.cpp"
+	<cmath>
+
+1708220466 c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\calculoscredito.h
+	"ListaDoble.h"
+
+1708220467 c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\listadoble.h
+	"Nodo.h"
+
+1708220467 c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\nodo.h
+
+1708220467 c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\listadoble.cpp
+	"ListaDoble.h"
+
+1708220467 c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\nodo.cpp
+	"Nodo.h"
+
+1708220466 source:c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\credito.cpp
+	"Credito.h"
+
+1708220466 c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\credito.h
+	"Fecha.h"
+
+1708220467 c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\fecha.h
+	<iostream>
+	"Nodo.h"
+	<ctime>
+	<iomanip>
+
+1708220467 source:c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<ctime>
+	<iomanip>
+
+1708220467 source:c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\listadoble.cpp
+	"ListaDoble.h"
+
+1708220467 source:c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\main.cpp
+	<iostream>
+	<ctime>
+	"menus.h"
+
+1708220467 c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\menus.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"validaciones.h"
+	"Fecha.h"
+	"Credito.h"
+	"TablaAmortizacion.h"
+
+1708220467 c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\validaciones.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+
+1708220467 c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\tablaamortizacion.h
+	"ListaDoble.h"
+	"Credito.h"
+	"Fecha.h"
+
+1708220467 source:c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\nodo.cpp
+	"Nodo.h"
+
+1708220467 source:c:\users\acer\desktop\material\material\firstpartial\proyect\cooperativaesperanza\codigo\tablaamortizacion.cpp
+	<iostream>
+	"TablaAmortizacion.h"
+	"CalculosCredito.h"
+	"Fecha.h"
+	"ListaDoble.cpp"
+	"Nodo.cpp"
+
+1708220466 source:c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\calculoscredito.cpp
+	"CalculosCredito.h"
+	"ListaDoble.cpp"
+	"Nodo.cpp"
+	<cmath>
+
+1708220466 c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\calculoscredito.h
+	"ListaDoble.h"
+
+1708220467 c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\listadoble.h
+	"Nodo.h"
+
+1708220467 c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\nodo.h
+
+1708220467 c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\listadoble.cpp
+	"ListaDoble.h"
+
+1708220467 c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\nodo.cpp
+	"Nodo.h"
+
+1708220466 source:c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\credito.cpp
+	"Credito.h"
+
+1708220466 c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\credito.h
+	"Fecha.h"
+
+1708220467 c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\fecha.h
+	<iostream>
+	"Nodo.h"
+	<ctime>
+	<iomanip>
+
+1708220467 source:c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\fecha.cpp
+	<iostream>
+	"Fecha.h"
+	<ctime>
+	<iomanip>
+
+1708220467 source:c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\listadoble.cpp
+	"ListaDoble.h"
+
+1708220467 source:c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\main.cpp
+	<iostream>
+	<ctime>
+	"menus.h"
+
+1708220467 c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\menus.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"validaciones.h"
+	"Fecha.h"
+	"Credito.h"
+	"TablaAmortizacion.h"
+
+1708220467 c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\validaciones.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+
+1708220467 c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\tablaamortizacion.h
+	"ListaDoble.h"
+	"Credito.h"
+	"Fecha.h"
+
+1708220467 source:c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\nodo.cpp
+	"Nodo.h"
+
+1708220467 source:c:\users\acer\desktop\material_estructura_datos\material\material\firstpartial\proyect\cooperativaesperanza-cob\codigo\tablaamortizacion.cpp
+	<iostream>
+	"TablaAmortizacion.h"
+	"CalculosCredito.h"
+	"Fecha.h"
+	"ListaDoble.cpp"
+	"Nodo.cpp"
+
